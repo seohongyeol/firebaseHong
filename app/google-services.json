@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "638285315527",
+    "firebase_url": "https://fir-hong.firebaseio.com",
+    "project_id": "fir-hong",
+    "storage_bucket": "fir-hong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638285315527:android:72d32e4d4426d94b",
+        "android_client_info": {
+          "package_name": "com.example.firebasehong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638285315527-i3akhk2relhn4923k4uu4iil5mrggnnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasehong",
+            "certificate_hash": "2f5d485c0cea7a1b56325d7d77b3ac707c99ae1d"
+          }
+        },
+        {
+          "client_id": "638285315527-ovjm1mcn1ai4utrh6on01vs70vmmqefc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfLs1YersfDr3Vw2U-TUCuE1AUqTmt3-Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638285315527-ovjm1mcn1ai4utrh6on01vs70vmmqefc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
