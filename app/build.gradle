@@ -45,6 +45,8 @@ dependencies {
 //  인증사용하지 않음
 //    implementation 'com.google.firebase:firebase-crash:10.0.1'
     implementation 'com.google.firebase:firebase-auth:10.0.1'
+    implementation 'com.google.android.gms:play-services-auth:10.0.1'
+
 
 
 }
